@@ -1,7 +1,7 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
 
 <p align="center">
-  <img src= (https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png alt="Analizando Datos" width="70%">
+  <img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
@@ -44,4 +44,5 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 ---
 
 ### 📂 Proyectos de Datos (Próximamente)
-> *En este espacio iré subiendo repositorios con análisis de datos sociales, script
+> *En este espacio iré subiendo repositorios con análisis de datos sociales, scripts de automatización en Python y estructuras de consulta en SQL.*
+
