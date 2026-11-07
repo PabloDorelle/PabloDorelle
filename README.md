@@ -2,6 +2,7 @@
 
 ![Banner Científico Social de Datos](https://githubusercontent.com)
 
+
 ### **Analista de Datos | Científico Social Computacional**
 *Buenos Aires, Argentina*
 
