@@ -1,4 +1,7 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
+
+![Banner Científico Social de Datos](https://githubusercontent.com)
+
 ### **Analista de Datos | Científico Social Computacional**
 *Buenos Aires, Argentina*
 
@@ -25,7 +28,6 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 | **Análisis y Reportes** | SPSS (Intermedio) • Power BI (Básico) • Excel Avanzado |
 | **Idiomas** | Español (Nativo) • Inglés (Intermedio - Laboratorio de Idiomas UBA) |
 
-
 ---
 
 ### 🎓 Educación Destacada
@@ -38,3 +40,4 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 
 ### 📂 Proyectos de Datos (Próximamente)
 > *En este espacio iré subiendo repositorios con análisis de datos sociales, scripts de automatización en Python y estructuras de consulta en SQL.*
+
