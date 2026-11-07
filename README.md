@@ -1,16 +1,6 @@
 <p align="center">
   <img src="https://github.com/PabloDorelle/PabloDorelle/blob/main/image_97e1605d.jpg?raw=true" alt="Pablo Dorelle Banner" width="100%">
-</p>
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Cientifico Social Computacional Analizando Datos" width="60%">
-</p>
-
-<p align="center">
-  <strong>Analista de Datos | Científico Social Computacional</strong><br>
-  <em>Buenos Aires, Argentina</em>
 </p>
 
 ---
