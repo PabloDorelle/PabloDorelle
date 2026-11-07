@@ -1,7 +1,6 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
 <p align="center">
-<p align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
+
 </p>
 
 </p>
