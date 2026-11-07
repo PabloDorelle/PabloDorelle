@@ -1,6 +1,6 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
 <p align="center">
-  <img src="https://vercel.app" alt="Banner Principal" width="100%">
+
 </p>
 
 <p align="center">
