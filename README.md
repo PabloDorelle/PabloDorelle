@@ -1,6 +1,9 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
 
-<h1> 💻 📊 📈 🧠 🌐 🐍 🗄️ 💼 📚 </h1>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+
+
 
 ### **Analista de Datos | Científico Social Computacional**
 *Buenos Aires, Argentina*
