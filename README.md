@@ -1,7 +1,6 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
 
-![Banner Científico Social de Datos](https://githubusercontent.com)
-
+<h1> 💻 📊 📈 🧠 🌐 🐍 🗄️ 💼 📚 </h1>
 
 ### **Analista de Datos | Científico Social Computacional**
 *Buenos Aires, Argentina*
