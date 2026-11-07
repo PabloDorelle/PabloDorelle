@@ -1,9 +1,8 @@
-<h1 align="center"><b> Hola, Soy Pablo Nahuel Dorelle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-
+<p align="center">
+  <img src="pablo.png" alt="Pablo Dorelle Banner" width="100%">
 </p>
 
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Cientifico Social Computacional Analizando Datos" width="60%">
