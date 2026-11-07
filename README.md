@@ -34,7 +34,7 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 | Área | Herramientas y Lenguajes |
 | :--- | :--- |
 | **Programación y Datos** |![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-| **Análisis y Reportes** | • Power BI (Básico) • Excel Avanzado |
+| **Análisis y Reportes** | [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 | **Idiomas** | Español (Nativo) • Inglés (Intermedio - Laboratorio de Idiomas UBA) |
 
 ---
