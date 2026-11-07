@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pablo.png" alt="Pablo Dorelle Banner" width="100%">
+  <img src="https://github.com/PabloDorelle/PabloDorelle/blob/main/image_97e1605d.jpg?raw=true" alt="Pablo Dorelle Banner" width="100%">
 </p>
 
 
