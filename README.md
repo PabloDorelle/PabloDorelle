@@ -1,13 +1,13 @@
 # ¡Hola! Soy Pablo Nahuel Dorelle 👋
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Analizando Datos" width="70%">
+</p>
 
-
-
-
-
-### **Analista de Datos | Científico Social Computacional**
-*Buenos Aires, Argentina*
+<p align="center">
+  <strong>Analista de Datos | Científico Social Computacional</strong><br>
+  <em>Buenos Aires, Argentina</em>
+</p>
 
 ---
 
@@ -19,7 +19,7 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 ---
 
 ### 🌐 Conectemos
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/pablo-dorelle-22b9b5208/)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 * 📧 **Correo Electrónico:** pablodorelle1996@gmail.com
 
 ---
@@ -30,6 +30,7 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 | :--- | :--- |
 | **Programación y Datos** | Python (Intermedio) • SQL (Intermedio) • R (Básico) |
 | **Análisis y Reportes** | SPSS (Intermedio) • Power BI (Básico) • Excel Avanzado |
+| **Entorno de Trabajo** | Git • GitHub • Microsoft Office Suite |
 | **Idiomas** | Español (Nativo) • Inglés (Intermedio - Laboratorio de Idiomas UBA) |
 
 ---
@@ -43,5 +44,4 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 ---
 
 ### 📂 Proyectos de Datos (Próximamente)
-> *En este espacio iré subiendo repositorios con análisis de datos sociales, scripts de automatización en Python y estructuras de consulta en SQL.*
-
+> *En este espacio iré subiendo repositorios con análisis de datos sociales, script
