@@ -23,7 +23,7 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 | :--- | :--- |
 | **Programación y Datos** | Python (Intermedio) • SQL (Intermedio) • R (Básico) |
 | **Análisis y Reportes** | SPSS (Intermedio) • Power BI (Básico) • Excel Avanzado |
-| **Entorno de Trabajo** | Git • GitHub • Microsoft Office Suite |
+
 | **Idiomas** | Español (Nativo) • Inglés (Intermedio - Laboratorio de Idiomas UBA) |
 
 ---
