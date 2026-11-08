@@ -14,7 +14,7 @@ Tengo más de 6 años de experiencia en análisis financiero, consolidación y n
 
 ### 🌐 Conectemos
 * 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/pablo-dorelle-22b9b5208/)
-* 📧 **Correo Electrónico:** pablodorelle1996@gmail.com
+* 📧 **Correo Electrónico: ** [pablodorelle1996@gmail.com](mailto:pablodorelle1996@gmail.com)
 
 ---
 
